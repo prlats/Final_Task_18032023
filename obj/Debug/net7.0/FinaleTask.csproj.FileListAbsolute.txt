@@ -1,0 +1,15 @@
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\bin\Debug\net7.0\FinaleTask.exe
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\bin\Debug\net7.0\FinaleTask.deps.json
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\bin\Debug\net7.0\FinaleTask.runtimeconfig.json
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\bin\Debug\net7.0\FinaleTask.dll
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\bin\Debug\net7.0\FinaleTask.pdb
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\FinaleTask.csproj.AssemblyReference.cache
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\FinaleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\FinaleTask.AssemblyInfoInputs.cache
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\FinaleTask.AssemblyInfo.cs
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\FinaleTask.csproj.CoreCompileInputs.cache
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\FinaleTask.dll
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\refint\FinaleTask.dll
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\FinaleTask.pdb
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\FinaleTask.genruntimeconfig.cache
+C:\Users\Петр\Desktop\GitBrains\FinaleTask\obj\Debug\net7.0\ref\FinaleTask.dll
